@@ -2,7 +2,7 @@ export GITHUB_USERNAME=Ars1231
 export GITHUB_TOKEN=
 cd ${GITHUB_USERNAME}/workspace
 source scripts/activate
-git clone https://github.com/${GITHUB_USERNAME}/lab03 projects/lab04
+git clone https://github.com/${GITHUB_USERNAME}/Lab_03 projects/Lab_04
 Клонирование в «projects/lab04»...
 remote: Enumerating objects: 56, done.
 remote: Counting objects: 100% (56/56), done.
@@ -50,3 +50,4 @@ Password for 'https://Ars1231@github.com':
 remote: Resolving deltas: 100% (21/21), done.
 To https://github.com/Ars1231/lab04
  * [new branch]      master -> master
+
